@@ -21,6 +21,7 @@
 .img-desktop {
   display: none;
 }
+
 .navigation-menu {
   margin-top: 24px;
 }
@@ -45,12 +46,14 @@ nav {
 .list-links li {
   margin: 16px 0;
 }
+
 .list-links li a {
   color: var(--text-secondary-color);
   text-decoration: none;
   font-weight: var(--menu-text-weight);
   font-size: 24px;
 }
+
 .list-links li a.active {
   text-decoration: underline;
 }
